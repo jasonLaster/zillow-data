@@ -1,0 +1,4923 @@
+[
+  {
+    "zpid": "12345678",
+    "address": "5400 Claremont Ave",
+    "zipCode": "94618",
+    "latitude": 37.8505,
+    "longitude": -122.2537,
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "sqft": 3200,
+    "lotSizeSqft": 5000,
+    "yearBuilt": 1925,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 2450000,
+    "pricePerSqft": 765.63,
+    "hoaFee": 0,
+    "propertyTax": 28000,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "Step into this beautifully restored Craftsman home located in the heart of Rockridge. This stunning 4-bedroom, 4.5-bath residence offers an expansive 3200 sqft of living space with a perfect blend of classic charm and modern amenities. Enjoy spacious living with a gourmet kitchen, elegant hardwood floors, and an inviting family room with a fireplace. The master suite is a luxurious retreat with a spa-like bathroom and a private balcony with bay views. Just a short walk to College Ave shops and Rockridge BART, this home is a true gem in a vibrant neighborhood.",
+      "keyFeatures": [
+        "Restored Craftsman",
+        "Gourmet Kitchen",
+        "Private Balcony",
+        "Close to BART"
+      ],
+      "agentName": "Sarah Johnson",
+      "agentPhone": "510-555-0123",
+      "agentEmail": "sjohnson@compass.com",
+      "brokerage": "Compass",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2450000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Granite Countertops",
+        "Stainless Steel Appliances",
+        "Island"
+      ],
+      "bathroomFeatures": [
+        "Double Vanity",
+        "Soaking Tub"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 2,
+      "laundryFeatures": "In-unit Laundry",
+      "cooling": "Central Air",
+      "heating": "Central Heating",
+      "yardFeatures": [
+        "Landscaped Backyard",
+        "Patio"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Security System",
+        "Smoke Detector"
+      ],
+      "greenFeatures": [
+        "Solar Panels",
+        "Energy Star Appliances"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 90,
+      "transitScore": 85,
+      "bikeScore": 80
+    },
+    "photos": [
+      {
+        "caption": "Spacious living room with hardwood floors and fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with island and stainless steel appliances",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Elegant dining area with large windows",
+        "roomType": "Dining Room",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "23456789",
+    "address": "6525 College Ave",
+    "zipCode": "94609",
+    "latitude": 37.8492,
+    "longitude": -122.2522,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "sqft": 1800,
+    "lotSizeSqft": 0,
+    "yearBuilt": 2010,
+    "propertyType": "condo",
+    "stories": 2,
+    "garageSpaces": 0,
+    "parkingSpaces": 1,
+    "price": 1150000,
+    "pricePerSqft": 638.89,
+    "hoaFee": 450,
+    "propertyTax": 13200,
+    "status": "For Sale",
+    "listingType": "New Construction",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "Experience urban living at its finest in this contemporary 4-bedroom, 5-bath condo located on vibrant College Ave. This spacious unit features an open floor plan with high ceilings and a sleek modern design. Enjoy the convenience of being steps away from local shops and cafes, and just a short walk to Rockridge BART. The unit offers luxurious finishes, a gourmet kitchen, and a private rooftop terrace with stunning views. Ideal for those seeking a dynamic and connected lifestyle.",
+      "keyFeatures": [
+        "Contemporary Design",
+        "Private Rooftop Terrace",
+        "Prime Location",
+        "New Construction"
+      ],
+      "agentName": "Michael Lee",
+      "agentPhone": "415-555-0143",
+      "agentEmail": "mlee@redfin.com",
+      "brokerage": "Redfin",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1150000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Carpet"
+      ],
+      "kitchenFeatures": [
+        "Quartz Countertops",
+        "Custom Cabinets"
+      ],
+      "bathroomFeatures": [
+        "Walk-in Shower",
+        "Heated Floors"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In-unit Laundry",
+      "cooling": "Central Air",
+      "heating": "Forced Air",
+      "yardFeatures": [],
+      "pool": false,
+      "spa": false,
+      "garageType": "None",
+      "securityFeatures": [
+        "Intercom",
+        "Fire Sprinkler System"
+      ],
+      "greenFeatures": [
+        "LED Lighting",
+        "Low Flow Fixtures"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 95,
+      "transitScore": 90,
+      "bikeScore": 85
+    },
+    "photos": [
+      {
+        "caption": "Stylish living area with natural light",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Spacious master bedroom with ensuite bath",
+        "roomType": "Master Bedroom",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Modern kitchen with high-end finishes",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "34567890",
+    "address": "5700 Keith Ave",
+    "zipCode": "94618",
+    "latitude": 37.8489,
+    "longitude": -122.2544,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "sqft": 3400,
+    "lotSizeSqft": 4800,
+    "yearBuilt": 1950,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 2495000,
+    "pricePerSqft": 733.82,
+    "hoaFee": 0,
+    "propertyTax": 28500,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "This exquisite Tudor-style home offers a perfect blend of historic charm and modern convenience. Nestled in a serene section of Rockridge, this 4-bedroom, 5-bathroom residence boasts 3400 sqft of living space. The home features a formal living room with a grand fireplace, a chef's kitchen, and a master suite with a private office. The beautifully landscaped garden is ideal for entertaining or relaxing. Situated near College Ave and local parks, this property offers the best of both tranquility and accessibility.",
+      "keyFeatures": [
+        "Tudor Style",
+        "Chef's Kitchen",
+        "Landscaped Garden",
+        "Private Office"
+      ],
+      "agentName": "Emily Tran",
+      "agentPhone": "925-555-0198",
+      "agentEmail": "etran@coldwellbanker.com",
+      "brokerage": "Coldwell Banker",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2495000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Sub-Zero Fridge",
+        "Double Oven",
+        "Granite Countertops"
+      ],
+      "bathroomFeatures": [
+        "Jetted Tub",
+        "Heated Towel Racks"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 2,
+      "laundryFeatures": "In-unit Laundry",
+      "cooling": "Central Air",
+      "heating": "Radiant",
+      "yardFeatures": [
+        "Lawn",
+        "Deck"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Security System"
+      ],
+      "greenFeatures": [
+        "Smart Thermostat"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 85,
+      "transitScore": 88,
+      "bikeScore": 75
+    },
+    "photos": [
+      {
+        "caption": "Charming Tudor exterior with lush greenery",
+        "roomType": "Exterior",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Gourmet kitchen with high-end appliances",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Master suite with ample natural light",
+        "roomType": "Master Bedroom",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "45678901",
+    "address": "4200 Broadway",
+    "zipCode": "94609",
+    "latitude": 37.8445,
+    "longitude": -122.2578,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 2000,
+    "lotSizeSqft": 3500,
+    "yearBuilt": 1985,
+    "propertyType": "single_family",
+    "stories": 1,
+    "garageSpaces": 1,
+    "parkingSpaces": 2,
+    "price": 1425000,
+    "pricePerSqft": 712.5,
+    "hoaFee": 0,
+    "propertyTax": 16000,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "Discover this charming single-level home in the desirable Rockridge neighborhood. Featuring 2 bedrooms and 2 bathrooms, this 2000 sqft home combines comfort with style. The open concept living and dining area is perfect for gatherings, while the updated kitchen offers modern appliances. The backyard is an oasis with a patio and garden, perfect for al fresco dining. Conveniently located near public transportation and the bustling College Ave corridor, this home is a rare find.",
+      "keyFeatures": [
+        "Single-Level",
+        "Open Concept",
+        "Updated Kitchen",
+        "Garden Oasis"
+      ],
+      "agentName": "David Chen",
+      "agentPhone": "510-555-0215",
+      "agentEmail": "dchen@kellerwilliams.com",
+      "brokerage": "Keller Williams Realty",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1425000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Carpet"
+      ],
+      "kitchenFeatures": [
+        "Granite Countertops",
+        "Gas Stove"
+      ],
+      "bathroomFeatures": [
+        "Updated Vanities",
+        "Tile Floors"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit Laundry",
+      "cooling": "Central Air",
+      "heating": "Central Heating",
+      "yardFeatures": [
+        "Patio",
+        "Garden"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Security System"
+      ],
+      "greenFeatures": [
+        "Energy Efficient Windows"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 88,
+      "transitScore": 90,
+      "bikeScore": 80
+    },
+    "photos": [
+      {
+        "caption": "Bright living area with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Cozy dining space adjacent to kitchen",
+        "roomType": "Dining Room",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Lovely garden and outdoor area",
+        "roomType": "Backyard",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "56789012",
+    "address": "5900 Shafter Ave",
+    "zipCode": "94609",
+    "latitude": 37.8475,
+    "longitude": -122.2505,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "sqft": 1700,
+    "lotSizeSqft": 0,
+    "yearBuilt": 2005,
+    "propertyType": "condo",
+    "stories": 3,
+    "garageSpaces": 0,
+    "parkingSpaces": 1,
+    "price": 1120000,
+    "pricePerSqft": 658.82,
+    "hoaFee": 400,
+    "propertyTax": 12900,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "Welcome to this delightful 4-bedroom, 3-bathroom condo situated in the heart of Rockridge. With 1700 sqft of living space, this home offers a comfortable layout perfect for both entertaining and daily living. Enjoy a modern kitchen with stainless steel appliances and a master suite with a walk-in closet. The condo also features a shared courtyard and is located close to the bustling College Ave with its variety of shops and restaurants.",
+      "keyFeatures": [
+        "Modern Kitchen",
+        "Walk-in Closet",
+        "Shared Courtyard",
+        "Close to Amenities"
+      ],
+      "agentName": "Linda Park",
+      "agentPhone": "510-555-0321",
+      "agentEmail": "lpark@betterhomes.com",
+      "brokerage": "Better Homes and Gardens",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1120000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Carpet",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Stainless Steel Appliances",
+        "Breakfast Bar"
+      ],
+      "bathroomFeatures": [
+        "Modern Fixtures",
+        "Tile Surround"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In-unit Laundry",
+      "cooling": "Central Air",
+      "heating": "Forced Air",
+      "yardFeatures": [
+        "Courtyard"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "None",
+      "securityFeatures": [
+        "Entry Intercom"
+      ],
+      "greenFeatures": [],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 92,
+      "transitScore": 89,
+      "bikeScore": 82
+    },
+    "photos": [
+      {
+        "caption": "Bright living room with open plan",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Master bedroom with ample space",
+        "roomType": "Master Bedroom",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Modern kitchen with all amenities",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "67890123",
+    "address": "6800 Dana St",
+    "zipCode": "94618",
+    "latitude": 37.8512,
+    "longitude": -122.2507,
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "sqft": 3100,
+    "lotSizeSqft": 5200,
+    "yearBuilt": 1930,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 3,
+    "price": 2350000,
+    "pricePerSqft": 758.06,
+    "hoaFee": 0,
+    "propertyTax": 27000,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "A classic Rockridge estate, this 4-bedroom, 4.5-bathroom home offers an elegant lifestyle with expansive bay views. The property features a spacious living room with a fireplace, a formal dining room, and a sun-filled kitchen with top-of-the-line appliances. The master suite includes a private deck overlooking the garden. Situated on a large lot with mature landscaping, this home is perfect for hosting gatherings or enjoying peaceful evenings. Close to Rockridge BART and College Ave.",
+      "keyFeatures": [
+        "Bay Views",
+        "Large Lot",
+        "Formal Dining",
+        "Private Deck"
+      ],
+      "agentName": "John Smith",
+      "agentPhone": "415-555-0186",
+      "agentEmail": "jsmith@pacificunion.com",
+      "brokerage": "Pacific Union",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2350000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Marble Countertops",
+        "High-End Appliances"
+      ],
+      "bathroomFeatures": [
+        "Freestanding Bathtub",
+        "Dual Sinks"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit Laundry",
+      "cooling": "Central Air",
+      "heating": "Radiant",
+      "yardFeatures": [
+        "Mature Trees",
+        "Deck"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Detached",
+      "securityFeatures": [
+        "Alarm System"
+      ],
+      "greenFeatures": [
+        "Solar Panels"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 87,
+      "transitScore": 90,
+      "bikeScore": 78
+    },
+    "photos": [
+      {
+        "caption": "Stunning facade with lovely garden",
+        "roomType": "Exterior",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Spacious living area with bay views",
+        "roomType": "Living Room",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Expansive kitchen with marble counters",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "78901234",
+    "address": "5300 Lawton Ave",
+    "zipCode": "94618",
+    "latitude": 37.8473,
+    "longitude": -122.2594,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "sqft": 2350,
+    "lotSizeSqft": 4000,
+    "yearBuilt": 1940,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 1,
+    "parkingSpaces": 2,
+    "price": 1850000,
+    "pricePerSqft": 787.23,
+    "hoaFee": 0,
+    "propertyTax": 21000,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "This delightful 3-bedroom, 3-bathroom home in Rockridge offers a harmonious blend of comfort and style. Featuring 2350 sqft, this home includes a formal living room with fireplace, a sunroom, and a generous master suite. The kitchen is equipped with modern amenities and opens to a dining area that leads to a beautifully landscaped backyard. Located close to Rockridge BART and the vibrant College Ave shopping district, this home is perfect for those who appreciate convenience and community.",
+      "keyFeatures": [
+        "Sunroom",
+        "Landscaped Backyard",
+        "Close to BART",
+        "Formal Living Room"
+      ],
+      "agentName": "Sophia Kim",
+      "agentPhone": "510-555-0432",
+      "agentEmail": "skim@compass.com",
+      "brokerage": "Compass",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1850000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Carpet"
+      ],
+      "kitchenFeatures": [
+        "Granite Countertops",
+        "Modern Appliances"
+      ],
+      "bathroomFeatures": [
+        "Updated Fixtures",
+        "Tile Shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit Laundry",
+      "cooling": "Central Air",
+      "heating": "Forced Air",
+      "yardFeatures": [
+        "Garden",
+        "Deck"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Security Alarm"
+      ],
+      "greenFeatures": [
+        "Tankless Water Heater"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 89,
+      "transitScore": 92,
+      "bikeScore": 81
+    },
+    "photos": [
+      {
+        "caption": "Inviting living room with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Sunroom with abundant natural light",
+        "roomType": "Sunroom",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Charming kitchen with dining area",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "89012345",
+    "address": "6090 Canning St",
+    "zipCode": "94618",
+    "latitude": 37.8496,
+    "longitude": -122.2552,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "sqft": 1600,
+    "lotSizeSqft": 0,
+    "yearBuilt": 2018,
+    "propertyType": "condo",
+    "stories": 2,
+    "garageSpaces": 0,
+    "parkingSpaces": 1,
+    "price": 1095000,
+    "pricePerSqft": 684.38,
+    "hoaFee": 375,
+    "propertyTax": 12500,
+    "status": "For Sale",
+    "listingType": "New Construction",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "This stunning 3-bedroom, 2.5-bathroom condo offers sophisticated living in the heart of Rockridge. Boasting 1600 sqft of contemporary design, the home features an open floor plan with high ceilings and top-quality finishes. The master bedroom includes a walk-in closet and ensuite bath. Residents will enjoy access to a shared rooftop deck with panoramic views. Located near BART and local eateries, this condo provides modern living with a convenient lifestyle.",
+      "keyFeatures": [
+        "Contemporary Design",
+        "Walk-in Closet",
+        "Rooftop Deck",
+        "New Construction"
+      ],
+      "agentName": "Ryan Patel",
+      "agentPhone": "415-555-0543",
+      "agentEmail": "rpatel@redfin.com",
+      "brokerage": "Redfin",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1095000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Quartz Countertops",
+        "Breakfast Bar"
+      ],
+      "bathroomFeatures": [
+        "Modern Vanities",
+        "Tile Surround"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In-unit Laundry",
+      "cooling": "Central Air",
+      "heating": "Forced Air",
+      "yardFeatures": [],
+      "pool": false,
+      "spa": false,
+      "garageType": "None",
+      "securityFeatures": [
+        "Intercom",
+        "Video Surveillance"
+      ],
+      "greenFeatures": [
+        "Energy Efficient Windows"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 94,
+      "transitScore": 91,
+      "bikeScore": 83
+    },
+    "photos": [
+      {
+        "caption": "Open floor plan with modern finishes",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Master bedroom with ensuite",
+        "roomType": "Master Bedroom",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Rooftop deck with scenic views",
+        "roomType": "Rooftop Deck",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "90123456",
+    "address": "4000 Linden St",
+    "zipCode": "94618",
+    "latitude": 37.8455,
+    "longitude": -122.2569,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "sqft": 2900,
+    "lotSizeSqft": 4500,
+    "yearBuilt": 1975,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 2250000,
+    "pricePerSqft": 775.86,
+    "hoaFee": 0,
+    "propertyTax": 26000,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "This elegant 4-bedroom, 3.5-bathroom home offers timeless style and modern amenities in Rockridge. Featuring 2900 sqft, it includes a spacious living room with a fireplace, a gourmet kitchen, and a master suite with a luxurious bath. The backyard is perfect for entertaining with a patio and lush landscaping. Conveniently located near local schools, parks, and shopping, this residence provides an ideal setting for family living.",
+      "keyFeatures": [
+        "Gourmet Kitchen",
+        "Luxurious Master Bath",
+        "Lush Landscaping",
+        "Family-Friendly"
+      ],
+      "agentName": "Laura Martinez",
+      "agentPhone": "510-555-0654",
+      "agentEmail": "lmartinez@coldwellbanker.com",
+      "brokerage": "Coldwell Banker",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2250000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Granite Countertops",
+        "Double Oven"
+      ],
+      "bathroomFeatures": [
+        "Marble Vanities",
+        "Steam Shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit Laundry",
+      "cooling": "Central Air",
+      "heating": "Central Heating",
+      "yardFeatures": [
+        "Patio",
+        "Lawn"
+      ],
+      "pool": false,
+      "spa": true,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Security System"
+      ],
+      "greenFeatures": [
+        "Smart Thermostat"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 86,
+      "transitScore": 88,
+      "bikeScore": 78
+    },
+    "photos": [
+      {
+        "caption": "Elegant living room with cozy fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Spacious master suite with luxurious bath",
+        "roomType": "Master Bedroom",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Gourmet kitchen with modern amenities",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "01234567",
+    "address": "4700 Alcatraz Ave",
+    "zipCode": "94609",
+    "latitude": 37.844,
+    "longitude": -122.2621,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "sqft": 1850,
+    "lotSizeSqft": 3000,
+    "yearBuilt": 1920,
+    "propertyType": "single_family",
+    "stories": 1,
+    "garageSpaces": 1,
+    "parkingSpaces": 2,
+    "price": 1420000,
+    "pricePerSqft": 767.57,
+    "hoaFee": 0,
+    "propertyTax": 15900,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "Charming and full of character, this 2-bedroom, 1.5-bathroom home offers 1850 sqft of cozy living in Rockridge. The property features a formal living room with hardwood floors and a fireplace, a bright kitchen, and a sun-drenched sunroom. The backyard is a tranquil space with a small patio perfect for relaxing. Located within walking distance to College Ave shops and restaurants, this home is ideal for those seeking convenience and charm.",
+      "keyFeatures": [
+        "Formal Living Room",
+        "Sunroom",
+        "Hardwood Floors",
+        "Charming Backyard"
+      ],
+      "agentName": "Tom Nguyen",
+      "agentPhone": "510-555-0789",
+      "agentEmail": "tnguyen@betterhomes.com",
+      "brokerage": "Better Homes and Gardens",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1420000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Pantry",
+        "Gas Range"
+      ],
+      "bathroomFeatures": [
+        "Pedestal Sinks",
+        "Tile Floors"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit Laundry",
+      "cooling": "Central Air",
+      "heating": "Central Heating",
+      "yardFeatures": [
+        "Patio",
+        "Garden"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Detached",
+      "securityFeatures": [
+        "Burglar Alarm"
+      ],
+      "greenFeatures": [
+        "Low Flow Fixtures"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 85,
+      "transitScore": 87,
+      "bikeScore": 77
+    },
+    "photos": [
+      {
+        "caption": "Cozy living room with fireplace and hardwood floors",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Bright sunroom with garden views",
+        "roomType": "Sunroom",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Charming kitchen with gas range",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "10000001",
+    "address": "1235 Keith Ave",
+    "zipCode": "94618",
+    "latitude": 37.8499,
+    "longitude": -122.2567,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 2100,
+    "lotSizeSqft": 5000,
+    "yearBuilt": 1935,
+    "propertyType": "single_family",
+    "stories": 1,
+    "garageSpaces": 1,
+    "parkingSpaces": 2,
+    "price": 1750000,
+    "pricePerSqft": 833,
+    "hoaFee": 0,
+    "propertyTax": 21000,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "Nestled on a serene tree-lined street of Rockridge, this charming 1935 Craftsman home offers modern updates while retaining its classic appeal. Featuring 2 spacious bedrooms and 2 elegant bathrooms, the property boasts an expansive living area perfect for entertaining. Its large backyard is ideal for gardening enthusiasts. Enjoy easy access to College Avenue's vibrant shops, cafes, and the Rockridge BART station.",
+      "keyFeatures": [
+        "Craftsman architecture",
+        "Updated kitchen",
+        "Large backyard",
+        "Proximity to BART"
+      ],
+      "agentName": "Sarah Johnson",
+      "agentPhone": "415-555-0123",
+      "agentEmail": "sarah.johnson@compass.com",
+      "brokerage": "Compass",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1750000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "granite countertops",
+        "stainless steel appliances"
+      ],
+      "bathroomFeatures": [
+        "double vanity",
+        "walk-in shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In unit",
+      "cooling": "Central Air",
+      "heating": "Central",
+      "yardFeatures": [
+        "fenced",
+        "landscaped"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Security system"
+      ],
+      "greenFeatures": [
+        "Energy-efficient windows"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 92,
+      "transitScore": 90,
+      "bikeScore": 82
+    },
+    "photos": [
+      {
+        "caption": "Spacious living room with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with granite countertops",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Master bedroom with natural light",
+        "roomType": "Bedroom",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "caption": "Beautifully landscaped backyard",
+        "roomType": "Yard",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "zpid": "10000002",
+    "address": "5678 College Ave",
+    "zipCode": "94609",
+    "latitude": 37.849,
+    "longitude": -122.251,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "sqft": 3200,
+    "lotSizeSqft": 6000,
+    "yearBuilt": 1940,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 4,
+    "price": 2400000,
+    "pricePerSqft": 750,
+    "hoaFee": 0,
+    "propertyTax": 27000,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 10,
+      "description": "This exquisite Tudor-style home in Rockridge offers 4 bedrooms and 3.5 bathrooms with classic details and modern comforts. The spacious interior is complemented by a private backyard oasis, perfect for gatherings or relaxation. Located near the vibrant College Avenue, enjoy quick access to top dining spots, boutique shops, and the Rockridge BART for easy commuting.",
+      "keyFeatures": [
+        "Tudor-style architecture",
+        "Spacious interior",
+        "Private backyard",
+        "Close to College Ave"
+      ],
+      "agentName": "Michael Chan",
+      "agentPhone": "510-555-0456",
+      "agentEmail": "michael.chan@coldwellbanker.com",
+      "brokerage": "Coldwell Banker",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2400000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "carpet"
+      ],
+      "kitchenFeatures": [
+        "island",
+        "custom cabinetry"
+      ],
+      "bathroomFeatures": [
+        "soaking tub",
+        "heated floors"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 2,
+      "laundryFeatures": "In unit",
+      "cooling": "Central Air",
+      "heating": "Forced Air",
+      "yardFeatures": [
+        "deck",
+        "mature trees"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Detached",
+      "securityFeatures": [
+        "CCTV"
+      ],
+      "greenFeatures": [
+        "Solar panels"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 88,
+      "transitScore": 85,
+      "bikeScore": 78
+    },
+    "photos": [
+      {
+        "caption": "Elegant Tudor-style facade",
+        "roomType": "Exterior",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Gourmet kitchen with island",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Luxurious master bathroom",
+        "roomType": "Bathroom",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "caption": "Private backyard with deck",
+        "roomType": "Yard",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "zpid": "10000003",
+    "address": "4321 Claremont Ave",
+    "zipCode": "94618",
+    "latitude": 37.8475,
+    "longitude": -122.2538,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "sqft": 3400,
+    "lotSizeSqft": 7000,
+    "yearBuilt": 1965,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 4,
+    "price": 2500000,
+    "pricePerSqft": 735,
+    "hoaFee": 0,
+    "propertyTax": 28000,
+    "status": "For Sale",
+    "listingType": "Premium",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 2,
+      "description": "A luxurious 5-bedroom, 5-bathroom home featuring panoramic bay views in the heart of Rockridge. This contemporary masterpiece offers high-end finishes, a chef's kitchen, and an expansive open-concept living space. Enjoy stunning sunsets from the large terrace. Walking distance to BART, Market Hall Foods, and the best of Rockridge's dining and shopping.",
+      "keyFeatures": [
+        "Bay views",
+        "Contemporary design",
+        "Chef's kitchen",
+        "Large terrace"
+      ],
+      "agentName": "Emily Nguyen",
+      "agentPhone": "415-555-0789",
+      "agentEmail": "emily.nguyen@remax.com",
+      "brokerage": "RE/MAX",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2500000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "bamboo",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "professional-grade appliances",
+        "quartz countertops"
+      ],
+      "bathroomFeatures": [
+        "rain shower",
+        "designer fixtures"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In unit",
+      "cooling": "Zoned",
+      "heating": "Radiant",
+      "yardFeatures": [
+        "terrace",
+        "landscaped garden"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Smart lock"
+      ],
+      "greenFeatures": [
+        "LEED certification"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 85,
+      "transitScore": 88,
+      "bikeScore": 80
+    },
+    "photos": [
+      {
+        "caption": "Stunning open-concept living area",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Chef's kitchen with high-end appliances",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Master suite with bay views",
+        "roomType": "Bedroom",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "caption": "Expansive terrace with panoramic views",
+        "roomType": "Terrace",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "zpid": "10000004",
+    "address": "7890 Vincent Way",
+    "zipCode": "94609",
+    "latitude": 37.8481,
+    "longitude": -122.256,
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "sqft": 1800,
+    "lotSizeSqft": 2000,
+    "yearBuilt": 2010,
+    "propertyType": "townhouse",
+    "stories": 3,
+    "garageSpaces": 1,
+    "parkingSpaces": 2,
+    "price": 1600000,
+    "pricePerSqft": 889,
+    "hoaFee": 350,
+    "propertyTax": 18000,
+    "status": "For Sale",
+    "listingType": "Townhouse",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 12,
+      "description": "This modern 3-bedroom, 3.5-bath townhouse offers urban living at its best in Rockridge. The open floor plan includes a gourmet kitchen and a spacious living area with lots of natural light. A private rooftop deck provides a peaceful retreat with stunning views. Conveniently located near Claremont Avenue and a short walk to the Rockridge BART station.",
+      "keyFeatures": [
+        "Modern design",
+        "Rooftop deck",
+        "Open floor plan",
+        "Near BART"
+      ],
+      "agentName": "Jessica Lee",
+      "agentPhone": "510-555-0666",
+      "agentEmail": "jessica.lee@redfin.com",
+      "brokerage": "Redfin",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1600000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "engineered wood",
+        "carpet"
+      ],
+      "kitchenFeatures": [
+        "granite countertops",
+        "pantry"
+      ],
+      "bathroomFeatures": [
+        "glass shower",
+        "modern fixtures"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In unit",
+      "cooling": "Central Air",
+      "heating": "Forced Air",
+      "yardFeatures": [
+        "rooftop deck"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Video doorbell"
+      ],
+      "greenFeatures": [
+        "Smart thermostat"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 90,
+      "transitScore": 92,
+      "bikeScore": 75
+    },
+    "photos": [
+      {
+        "caption": "Contemporary living area with natural light",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Rooftop deck with city views",
+        "roomType": "Deck",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Gourmet kitchen with modern appliances",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "caption": "Master bedroom with en suite bath",
+        "roomType": "Bedroom",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "zpid": "10000005",
+    "address": "2468 Rich St",
+    "zipCode": "94618",
+    "latitude": 37.8505,
+    "longitude": -122.255,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "sqft": 2500,
+    "lotSizeSqft": 5500,
+    "yearBuilt": 1980,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 4,
+    "price": 2200000,
+    "pricePerSqft": 880,
+    "hoaFee": 0,
+    "propertyTax": 26500,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 7,
+      "description": "A beautifully updated 4-bedroom, 4-bathroom home in the desirable Rockridge neighborhood. This spacious property offers an open floor plan with high ceilings, a gourmet kitchen, and a luxurious master suite. The private backyard is perfect for entertaining. Enjoy the convenience of being close to Market Hall, Claremont Avenue, and UC Berkeley.",
+      "keyFeatures": [
+        "Updated interior",
+        "Gourmet kitchen",
+        "Private backyard",
+        "Close to UC Berkeley"
+      ],
+      "agentName": "David Wong",
+      "agentPhone": "510-555-0234",
+      "agentEmail": "david.wong@sothebys.com",
+      "brokerage": "Sotheby's International Realty",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2200000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "sub-zero fridge",
+        "double oven"
+      ],
+      "bathroomFeatures": [
+        "jacuzzi tub",
+        "custom tiling"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In unit",
+      "cooling": "Central Air",
+      "heating": "Radiant",
+      "yardFeatures": [
+        "patio",
+        "fruit trees"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Alarm system"
+      ],
+      "greenFeatures": [
+        "Tankless water heater"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 87,
+      "transitScore": 88,
+      "bikeScore": 81
+    },
+    "photos": [
+      {
+        "caption": "Open living area with high ceilings",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Luxurious master suite",
+        "roomType": "Bedroom",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Private backyard with patio",
+        "roomType": "Yard",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "caption": "Spacious kitchen with modern amenities",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "zpid": "10000006",
+    "address": "1357 Miles Ave",
+    "zipCode": "94609",
+    "latitude": 37.8497,
+    "longitude": -122.253,
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "sqft": 2200,
+    "lotSizeSqft": 3000,
+    "yearBuilt": 2015,
+    "propertyType": "townhouse",
+    "stories": 3,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 1800000,
+    "pricePerSqft": 818,
+    "hoaFee": 400,
+    "propertyTax": 21000,
+    "status": "For Sale",
+    "listingType": "Townhouse",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 8,
+      "description": "This stunning 4-bedroom, 4.5-bath townhouse boasts a modern design with luxurious finishes. The open-concept living area is perfect for entertaining, while the expansive rooftop deck offers breathtaking views. Situated within walking distance of Rockridge BART and College Avenue shops, this home provides the perfect blend of urban convenience and neighborhood charm.",
+      "keyFeatures": [
+        "Modern finishes",
+        "Expansive rooftop deck",
+        "Open-concept living",
+        "Near shops and BART"
+      ],
+      "agentName": "Rachel Kim",
+      "agentPhone": "415-555-0987",
+      "agentEmail": "rachel.kim@zephyrre.com",
+      "brokerage": "Zephyr Real Estate",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1800000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "carpet"
+      ],
+      "kitchenFeatures": [
+        "wine cooler",
+        "granite countertops"
+      ],
+      "bathroomFeatures": [
+        "steam shower",
+        "marble countertops"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In unit",
+      "cooling": "Central Air",
+      "heating": "Forced Air",
+      "yardFeatures": [
+        "rooftop deck"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Video surveillance"
+      ],
+      "greenFeatures": [
+        "Solar heating"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 89,
+      "transitScore": 91,
+      "bikeScore": 83
+    },
+    "photos": [
+      {
+        "caption": "Open-concept living area with modern finishes",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Rooftop deck with city views",
+        "roomType": "Deck",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Gourmet kitchen with wine cooler",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "caption": "Master bathroom with steam shower",
+        "roomType": "Bathroom",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "zpid": "10000007",
+    "address": "2460 Broadway Terrace",
+    "zipCode": "94618",
+    "latitude": 37.8492,
+    "longitude": -122.2498,
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "sqft": 2300,
+    "lotSizeSqft": 3500,
+    "yearBuilt": 2018,
+    "propertyType": "townhouse",
+    "stories": 3,
+    "garageSpaces": 1,
+    "parkingSpaces": 2,
+    "price": 1700000,
+    "pricePerSqft": 739,
+    "hoaFee": 375,
+    "propertyTax": 20000,
+    "status": "For Sale",
+    "listingType": "Townhouse",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 6,
+      "description": "Discover this exceptional 4-bedroom, 4.5-bath townhouse, situated in the heart of Rockridge. With its contemporary layout and upscale features, the home includes a state-of-the-art kitchen, a luxurious master suite, and a private balcony. Walking distance to Market Hall Foods, cafes, and quick access to Rockridge BART.",
+      "keyFeatures": [
+        "Contemporary layout",
+        "Upscale features",
+        "Private balcony",
+        "Close to amenities"
+      ],
+      "agentName": "Alex Green",
+      "agentPhone": "510-555-0678",
+      "agentEmail": "alex.green@kellerwilliams.com",
+      "brokerage": "Keller Williams",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1700000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "bamboo",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "island",
+        "custom cabinetry"
+      ],
+      "bathroomFeatures": [
+        "soaking tub",
+        "dual sinks"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In unit",
+      "cooling": "Central Air",
+      "heating": "Central",
+      "yardFeatures": [
+        "balcony"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Security alarm"
+      ],
+      "greenFeatures": [
+        "Energy Star appliances"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 91,
+      "transitScore": 89,
+      "bikeScore": 80
+    },
+    "photos": [
+      {
+        "caption": "Spacious living room with balcony access",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with island",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Luxurious master suite with balcony",
+        "roomType": "Bedroom",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "caption": "Elegant bathroom with soaking tub",
+        "roomType": "Bathroom",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "zpid": "10000008",
+    "address": "1354 Lawton Ave",
+    "zipCode": "94609",
+    "latitude": 37.8501,
+    "longitude": -122.2557,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "sqft": 2800,
+    "lotSizeSqft": 5000,
+    "yearBuilt": 1955,
+    "propertyType": "single_family",
+    "stories": 1,
+    "garageSpaces": 2,
+    "parkingSpaces": 4,
+    "price": 2100000,
+    "pricePerSqft": 750,
+    "hoaFee": 0,
+    "propertyTax": 25000,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 11,
+      "description": "This beautifully maintained 3-bedroom, 3-bathroom mid-century home in Rockridge offers ample space and style. The home features a spacious living room with a classic fireplace, a modern kitchen, and an expansive backyard for outdoor gatherings. Located near UC Berkeley and local parks, this home is perfect for families seeking both tranquility and convenience.",
+      "keyFeatures": [
+        "Mid-century design",
+        "Spacious backyard",
+        "Modern kitchen",
+        "Proximity to UC Berkeley"
+      ],
+      "agentName": "Lisa Tran",
+      "agentPhone": "415-555-0345",
+      "agentEmail": "lisa.tran@compass.com",
+      "brokerage": "Compass",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2100000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "custom cabinetry",
+        "gas stove"
+      ],
+      "bathroomFeatures": [
+        "walk-in shower",
+        "dual vanities"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In unit",
+      "cooling": "Ceiling Fan(s)",
+      "heating": "Central",
+      "yardFeatures": [
+        "fenced",
+        "patio"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Security system"
+      ],
+      "greenFeatures": [
+        "Energy-efficient appliances"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 84,
+      "transitScore": 87,
+      "bikeScore": 76
+    },
+    "photos": [
+      {
+        "caption": "Spacious living room with classic fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Expansive backyard perfect for gatherings",
+        "roomType": "Yard",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Modern kitchen with custom cabinetry",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "caption": "Master bathroom with dual vanities",
+        "roomType": "Bathroom",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "zpid": "10000009",
+    "address": "789 Lawton Ave",
+    "zipCode": "94618",
+    "latitude": 37.8485,
+    "longitude": -122.2585,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "sqft": 1600,
+    "lotSizeSqft": 0,
+    "yearBuilt": 2005,
+    "propertyType": "condo",
+    "stories": 1,
+    "garageSpaces": 1,
+    "parkingSpaces": 1,
+    "price": 900000,
+    "pricePerSqft": 563,
+    "hoaFee": 450,
+    "propertyTax": 12000,
+    "status": "For Sale",
+    "listingType": "Condo",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 9,
+      "description": "This stylish 3-bedroom, 3-bathroom condo is located in a vibrant section of Rockridge. With its open floor plan, the condo features a modern kitchen, spacious bedrooms, and a private balcony. Located just steps away from College Avenue, enjoy easy access to cafes, boutiques, and the Rockridge BART station.",
+      "keyFeatures": [
+        "Modern design",
+        "Private balcony",
+        "Open floor plan",
+        "Seconds from BART"
+      ],
+      "agentName": "Tom Nelson",
+      "agentPhone": "510-555-0965",
+      "agentEmail": "tom.nelson@highlandpartners.com",
+      "brokerage": "The Grubb Company",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 900000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "laminate",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "breakfast bar",
+        "stainless steel appliances"
+      ],
+      "bathroomFeatures": [
+        "modern fixtures",
+        "en suite"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In unit",
+      "cooling": "Central Air",
+      "heating": "Forced Air",
+      "yardFeatures": [
+        "balcony"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Underground",
+      "securityFeatures": [
+        "Doorman"
+      ],
+      "greenFeatures": [
+        "Programmable thermostat"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 94,
+      "transitScore": 93,
+      "bikeScore": 85
+    },
+    "photos": [
+      {
+        "caption": "Modern open-plan living area",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Private balcony with city views",
+        "roomType": "Balcony",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Spacious master bedroom with en suite",
+        "roomType": "Bedroom",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "caption": "Contemporary kitchen with breakfast bar",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "zpid": "10000010",
+    "address": "432 Broadway Terrace",
+    "zipCode": "94618",
+    "latitude": 37.8447,
+    "longitude": -122.2501,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "sqft": 2700,
+    "lotSizeSqft": 5800,
+    "yearBuilt": 1995,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 3,
+    "price": 2300000,
+    "pricePerSqft": 852,
+    "hoaFee": 0,
+    "propertyTax": 27500,
+    "status": "For Sale",
+    "listingType": "Premium",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "Gorgeous 4-bedroom, 4-bathroom home located in the picturesque hills of Rockridge. This property features a modern kitchen, multiple living spaces, and a luxurious master suite with walk-in closets. The backyard is perfect for outdoor entertainment with a patio and garden. Minutes away from Tilden Regional Park and Rockridge’s vibrant cultural amenities.",
+      "keyFeatures": [
+        "Hill views",
+        "Modern kitchen",
+        "Multiple living spaces",
+        "Near Tilden Park"
+      ],
+      "agentName": "Olivia Smith",
+      "agentPhone": "510-555-0874",
+      "agentEmail": "olivia.smith@bhhsdrysdale.com",
+      "brokerage": "Berkshire Hathaway HomeServices",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2300000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "marble"
+      ],
+      "kitchenFeatures": [
+        "central island",
+        "double sinks"
+      ],
+      "bathroomFeatures": [
+        "his and hers sinks",
+        "walk-in shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 2,
+      "laundryFeatures": "In unit",
+      "cooling": "Central Air",
+      "heating": "Forced Air",
+      "yardFeatures": [
+        "patio",
+        "garden"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Gated entry"
+      ],
+      "greenFeatures": [
+        "Water-efficient landscaping"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 80,
+      "transitScore": 84,
+      "bikeScore": 72
+    },
+    "photos": [
+      {
+        "caption": "Elegant living room with bay windows",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Backyard with patio and garden",
+        "roomType": "Yard",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Luxurious master suite with views",
+        "roomType": "Bedroom",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "caption": "Modern kitchen with central island",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "zpid": "12345678",
+    "address": "5433 College Ave",
+    "zipCode": "94618",
+    "latitude": 37.8411,
+    "longitude": -122.251,
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "sqft": 2800,
+    "lotSizeSqft": 5000,
+    "yearBuilt": 1940,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 4,
+    "price": 2100000,
+    "pricePerSqft": 750,
+    "hoaFee": 0,
+    "propertyTax": 26000,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "This charming Craftsman home in Rockridge offers modern comforts while maintaining its historic charm. With 3 spacious bedrooms and 3.5 bathrooms, the property is perfect for families. The home boasts a beautifully landscaped garden, a large living room with a fireplace, and a gourmet kitchen. It's conveniently located near College Avenue shops and the Rockridge BART station.",
+      "keyFeatures": [
+        "Craftsman architecture",
+        "Gourmet kitchen",
+        "Spacious garden",
+        "Close to BART",
+        "Large living room"
+      ],
+      "agentName": "Jessica Tran",
+      "agentPhone": "510-555-1234",
+      "agentEmail": "jessica.tran@compass.com",
+      "brokerage": "Compass",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2100000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "granite countertops",
+        "stainless steel appliances",
+        "breakfast nook"
+      ],
+      "bathroomFeatures": [
+        "dual sinks",
+        "glass shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit laundry room",
+      "cooling": "Central air",
+      "heating": "Central",
+      "yardFeatures": [
+        "fenced yard",
+        "patio"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "security system"
+      ],
+      "greenFeatures": [
+        "solar panels"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 90,
+      "transitScore": 95,
+      "bikeScore": 80
+    },
+    "photos": [
+      {
+        "caption": "Spacious living room with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with stainless steel appliances",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Beautifully landscaped garden",
+        "roomType": "Yard",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "23456789",
+    "address": "4872 Claremont Ave",
+    "zipCode": "94609",
+    "latitude": 37.8399,
+    "longitude": -122.2587,
+    "bedrooms": 2,
+    "bathrooms": 2.5,
+    "sqft": 1900,
+    "lotSizeSqft": 4000,
+    "yearBuilt": 1930,
+    "propertyType": "single_family",
+    "stories": 1,
+    "garageSpaces": 1,
+    "parkingSpaces": 2,
+    "price": 1650000,
+    "pricePerSqft": 868,
+    "hoaFee": 0,
+    "propertyTax": 20500,
+    "status": "For Sale",
+    "listingType": "Open Listing",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 10,
+      "description": "Nestled on Claremont Avenue, this Tudor-style home offers 2 bedrooms and 2.5 bathrooms with an exquisite interior. Enjoy the open concept living area with a cozy fireplace and a chef’s kitchen with top-of-the-line appliances. Its prime location offers easy access to Rockridge BART and nearby shops.",
+      "keyFeatures": [
+        "Tudor-style architecture",
+        "Open concept living",
+        "Chef's kitchen",
+        "Prime location",
+        "Cozy fireplace"
+      ],
+      "agentName": "Michael Lee",
+      "agentPhone": "510-555-5678",
+      "agentEmail": "michael.lee@coldwellbanker.com",
+      "brokerage": "Coldwell Banker",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1650000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "carpet"
+      ],
+      "kitchenFeatures": [
+        "high-end appliances",
+        "island"
+      ],
+      "bathroomFeatures": [
+        "soaking tub",
+        "marble countertops"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit laundry room",
+      "cooling": "Central air",
+      "heating": "Central",
+      "yardFeatures": [
+        "deck",
+        "landscaped garden"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "alarm system"
+      ],
+      "greenFeatures": [],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 88,
+      "transitScore": 92,
+      "bikeScore": 75
+    },
+    "photos": [
+      {
+        "caption": "Cozy living room with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern chef's kitchen",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Spacious master bedroom",
+        "roomType": "Bedroom",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "34567890",
+    "address": "6219 Keith Ave",
+    "zipCode": "94618",
+    "latitude": 37.8415,
+    "longitude": -122.2472,
+    "bedrooms": 5,
+    "bathrooms": 5.5,
+    "sqft": 3400,
+    "lotSizeSqft": 6000,
+    "yearBuilt": 2019,
+    "propertyType": "single_family",
+    "stories": 3,
+    "garageSpaces": 2,
+    "parkingSpaces": 3,
+    "price": 2500000,
+    "pricePerSqft": 735,
+    "hoaFee": 0,
+    "propertyTax": 31250,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "This contemporary Rockridge home offers luxury living with 5 bedrooms and 5.5 bathrooms. Built in 2019, it features expansive bay views, a private elevator, and a rooftop terrace. The seamless indoor-outdoor flow is perfect for entertaining, and the home is equipped with smart home technology.",
+      "keyFeatures": [
+        "Contemporary design",
+        "Bay views",
+        "Private elevator",
+        "Rooftop terrace",
+        "Smart home technology"
+      ],
+      "agentName": "Rachel Kim",
+      "agentPhone": "510-555-7890",
+      "agentEmail": "rachel.kim@redfin.com",
+      "brokerage": "Redfin",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2500000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "quartz countertops",
+        "custom cabinetry"
+      ],
+      "bathroomFeatures": [
+        "walk-in shower",
+        "heated floors"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 2,
+      "laundryFeatures": "In-unit laundry room",
+      "cooling": "Zoned air conditioning",
+      "heating": "Radiant",
+      "yardFeatures": [
+        "rooftop terrace",
+        "outdoor kitchen"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "smart locks",
+        "video surveillance"
+      ],
+      "greenFeatures": [
+        "energy-efficient appliances",
+        "solar panels"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 85,
+      "transitScore": 90,
+      "bikeScore": 80
+    },
+    "photos": [
+      {
+        "caption": "Expansive living room with bay views",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with high-end finishes",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Rooftop terrace with outdoor kitchen",
+        "roomType": "Outdoor Space",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "45678901",
+    "address": "5809 Lawton Ave",
+    "zipCode": "94618",
+    "latitude": 37.843,
+    "longitude": -122.2556,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "sqft": 2300,
+    "lotSizeSqft": 4500,
+    "yearBuilt": 1955,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 1,
+    "parkingSpaces": 2,
+    "price": 1800000,
+    "pricePerSqft": 783,
+    "hoaFee": 0,
+    "propertyTax": 22500,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 7,
+      "description": "This mid-century modern home on Lawton Ave offers 3 bedrooms and 2.5 bathrooms. With its open floor plan, large windows, and hardwood floors, the home is both stylish and comfortable. Located in a vibrant community, it's close to Market Hall Foods and local cafes.",
+      "keyFeatures": [
+        "Mid-century modern",
+        "Open floor plan",
+        "Hardwood floors",
+        "Close to Market Hall",
+        "Large windows"
+      ],
+      "agentName": "Carlos Rodriguez",
+      "agentPhone": "510-555-0987",
+      "agentEmail": "carlos.rodriguez@bhhs.com",
+      "brokerage": "Berkshire Hathaway",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1800000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "laminate"
+      ],
+      "kitchenFeatures": [
+        "breakfast bar",
+        "pantry"
+      ],
+      "bathroomFeatures": [
+        "vessel sinks",
+        "glass shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit laundry room",
+      "cooling": "Central air",
+      "heating": "Forced air",
+      "yardFeatures": [
+        "fenced yard",
+        "garden"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Detached",
+      "securityFeatures": [
+        "security lights"
+      ],
+      "greenFeatures": [],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 87,
+      "transitScore": 91,
+      "bikeScore": 82
+    },
+    "photos": [
+      {
+        "caption": "Stylish living room with open floor plan",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with breakfast bar",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Spacious master suite",
+        "roomType": "Bedroom",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "56789012",
+    "address": "6358 Broadway Ter",
+    "zipCode": "94618",
+    "latitude": 37.8453,
+    "longitude": -122.2428,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "sqft": 3200,
+    "lotSizeSqft": 7000,
+    "yearBuilt": 1925,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 4,
+    "price": 2400000,
+    "pricePerSqft": 750,
+    "hoaFee": 0,
+    "propertyTax": 30000,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 2,
+      "description": "This stunning five-bedroom Tudor home on Broadway Terrace combines classic charm with modern updates. It offers a spacious living area with a fireplace, a gourmet kitchen with an island, and a beautifully landscaped backyard. Its proximity to Tilden Park makes it ideal for outdoor enthusiasts.",
+      "keyFeatures": [
+        "Tudor architecture",
+        "Gourmet kitchen",
+        "Landscaped backyard",
+        "Close to Tilden Park",
+        "Spacious living area"
+      ],
+      "agentName": "Susan Park",
+      "agentPhone": "510-555-4321",
+      "agentEmail": "susan.park@compass.com",
+      "brokerage": "Compass",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2400000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "center island",
+        "wine fridge"
+      ],
+      "bathroomFeatures": [
+        "freestanding tub",
+        "rain shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit laundry room",
+      "cooling": "Central air",
+      "heating": "Central",
+      "yardFeatures": [
+        "fenced yard",
+        "gazebo"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "security cameras"
+      ],
+      "greenFeatures": [
+        "energy-efficient windows"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 83,
+      "transitScore": 89,
+      "bikeScore": 78
+    },
+    "photos": [
+      {
+        "caption": "Elegant living room with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Gourmet kitchen with island",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Beautifully landscaped backyard",
+        "roomType": "Yard",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "67890123",
+    "address": "6123 Manila Ave",
+    "zipCode": "94609",
+    "latitude": 37.84,
+    "longitude": -122.2625,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "sqft": 1500,
+    "lotSizeSqft": 0,
+    "yearBuilt": 2015,
+    "propertyType": "condo",
+    "stories": 1,
+    "garageSpaces": 1,
+    "parkingSpaces": 1,
+    "price": 950000,
+    "pricePerSqft": 633,
+    "hoaFee": 350,
+    "propertyTax": 11875,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 12,
+      "description": "This contemporary condo in Rockridge offers 3 bedrooms and 3 bathrooms, perfect for modern living. Located near Claremont Avenue, it features a sleek design with an open floor plan, ample natural light, and a private balcony. Enjoy easy access to local cafes and boutiques.",
+      "keyFeatures": [
+        "Contemporary design",
+        "Open floor plan",
+        "Private balcony",
+        "Near Claremont Avenue",
+        "Ample natural light"
+      ],
+      "agentName": "David Chen",
+      "agentPhone": "510-555-2468",
+      "agentEmail": "david.chen@kellerwilliams.com",
+      "brokerage": "Keller Williams",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 950000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "laminate",
+        "carpet"
+      ],
+      "kitchenFeatures": [
+        "quartz countertops",
+        "stainless steel appliances"
+      ],
+      "bathroomFeatures": [
+        "modern fixtures",
+        "tile flooring"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In-unit laundry",
+      "cooling": "Central air",
+      "heating": "Forced air",
+      "yardFeatures": [],
+      "pool": false,
+      "spa": false,
+      "garageType": "Covered",
+      "securityFeatures": [],
+      "greenFeatures": [
+        "energy-efficient appliances"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 92,
+      "transitScore": 93,
+      "bikeScore": 85
+    },
+    "photos": [
+      {
+        "caption": "Bright, open living area",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with sleek design",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Private balcony with city views",
+        "roomType": "Outdoor Space",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "78901234",
+    "address": "5302 Shafter Ave",
+    "zipCode": "94618",
+    "latitude": 37.8435,
+    "longitude": -122.2599,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "sqft": 2800,
+    "lotSizeSqft": 6000,
+    "yearBuilt": 1978,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 3,
+    "price": 2200000,
+    "pricePerSqft": 785,
+    "hoaFee": 0,
+    "propertyTax": 27500,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 9,
+      "description": "This beautiful four-bedroom home on Shafter Ave features a blend of traditional and modern finishes. It includes a master suite with a private deck, a spacious kitchen with an island, and a large landscaped yard, ideal for gatherings. Its proximity to UC Berkeley is a plus.",
+      "keyFeatures": [
+        "Master suite with deck",
+        "Spacious kitchen",
+        "Large yard",
+        "Near UC Berkeley",
+        "Traditional-modern blend"
+      ],
+      "agentName": "Emily Nguyen",
+      "agentPhone": "510-555-1357",
+      "agentEmail": "emily.nguyen@remax.com",
+      "brokerage": "RE/MAX",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2200000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "kitchen island",
+        "pantry"
+      ],
+      "bathroomFeatures": [
+        "dual sinks",
+        "heated floors"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit laundry room",
+      "cooling": "Central air",
+      "heating": "Central",
+      "yardFeatures": [
+        "deck",
+        "fenced yard"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "security alarm"
+      ],
+      "greenFeatures": [],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 85,
+      "transitScore": 89,
+      "bikeScore": 77
+    },
+    "photos": [
+      {
+        "caption": "Charming living room with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Spacious kitchen with island",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Master suite with private deck",
+        "roomType": "Bedroom",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "89012345",
+    "address": "4907 Ocean View Dr",
+    "zipCode": "94618",
+    "latitude": 37.8422,
+    "longitude": -122.2441,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "sqft": 3100,
+    "lotSizeSqft": 5500,
+    "yearBuilt": 2008,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 3,
+    "price": 2300000,
+    "pricePerSqft": 742,
+    "hoaFee": 0,
+    "propertyTax": 28750,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 4,
+      "description": "Located on Ocean View Drive, this spacious home offers 4 bedrooms and 4 bathrooms. Enjoy modern living with an open floor plan, high ceilings, and a gourmet kitchen. The home features a large master suite with views and is minutes from the Rockridge BART station.",
+      "keyFeatures": [
+        "Open floor plan",
+        "High ceilings",
+        "Large master suite",
+        "Gourmet kitchen",
+        "Close to BART"
+      ],
+      "agentName": "Tom Johnson",
+      "agentPhone": "510-555-2244",
+      "agentEmail": "tom.johnson@c21.com",
+      "brokerage": "Century 21",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2300000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "granite countertops",
+        "double ovens"
+      ],
+      "bathroomFeatures": [
+        "spa tub",
+        "glass shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit laundry room",
+      "cooling": "Central air",
+      "heating": "Central",
+      "yardFeatures": [
+        "deck",
+        "fenced yard"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "alarm system"
+      ],
+      "greenFeatures": [
+        "solar panels"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 88,
+      "transitScore": 93,
+      "bikeScore": 82
+    },
+    "photos": [
+      {
+        "caption": "Elegant living room with views",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Gourmet kitchen with granite countertops",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Spacious master bedroom with views",
+        "roomType": "Bedroom",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "90123456",
+    "address": "4610 Harbord Dr",
+    "zipCode": "94618",
+    "latitude": 37.8438,
+    "longitude": -122.253,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "sqft": 2900,
+    "lotSizeSqft": 4800,
+    "yearBuilt": 1985,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 2250000,
+    "pricePerSqft": 776,
+    "hoaFee": 0,
+    "propertyTax": 28125,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 8,
+      "description": "This Harbord Drive home features 4 bedrooms and 3.5 bathrooms, offering a perfect blend of space and style. The gourmet kitchen, formal dining room, and spacious backyard make it ideal for entertaining. Located close to local amenities and schools, it provides a convenient lifestyle.",
+      "keyFeatures": [
+        "Gourmet kitchen",
+        "Formal dining room",
+        "Spacious backyard",
+        "Close to amenities",
+        "Perfect for entertaining"
+      ],
+      "agentName": "Anna Patel",
+      "agentPhone": "510-555-3345",
+      "agentEmail": "anna.patel@intero.com",
+      "brokerage": "Intero Real Estate",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2250000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "custom cabinetry",
+        "granite countertops"
+      ],
+      "bathroomFeatures": [
+        "walk-in shower",
+        "dual sinks"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit laundry room",
+      "cooling": "Central air",
+      "heating": "Central",
+      "yardFeatures": [
+        "patio",
+        "fenced yard"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "alarm system"
+      ],
+      "greenFeatures": [
+        "energy-efficient appliances"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 86,
+      "transitScore": 88,
+      "bikeScore": 79
+    },
+    "photos": [
+      {
+        "caption": "Spacious living room with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Well-appointed kitchen with custom cabinetry",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Large backyard with patio",
+        "roomType": "Yard",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "01234567",
+    "address": "4206 Miles Ave",
+    "zipCode": "94618",
+    "latitude": 37.8404,
+    "longitude": -122.2577,
+    "bedrooms": 2,
+    "bathrooms": 2.5,
+    "sqft": 2000,
+    "lotSizeSqft": 4500,
+    "yearBuilt": 1968,
+    "propertyType": "single_family",
+    "stories": 1,
+    "garageSpaces": 1,
+    "parkingSpaces": 1,
+    "price": 1500000,
+    "pricePerSqft": 750,
+    "hoaFee": 0,
+    "propertyTax": 18750,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 6,
+      "description": "This 2-bedroom Mid-century home on Miles Ave offers a serene retreat with modern updates. Featuring an open living area, a remodeled kitchen, and a spacious backyard with a deck, it's perfect for entertaining. It's within walking distance to local shops and restaurants.",
+      "keyFeatures": [
+        "Mid-century style",
+        "Remodeled kitchen",
+        "Open living area",
+        "Spacious backyard",
+        "Close to shops"
+      ],
+      "agentName": "James Smith",
+      "agentPhone": "510-555-7789",
+      "agentEmail": "james.smith@compass.com",
+      "brokerage": "Compass",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1500000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "vinyl"
+      ],
+      "kitchenFeatures": [
+        "modern appliances",
+        "quartz countertops"
+      ],
+      "bathroomFeatures": [
+        "updated vanities",
+        "tile flooring"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit laundry",
+      "cooling": "Wall unit",
+      "heating": "Forced air",
+      "yardFeatures": [
+        "deck",
+        "fenced yard"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [],
+      "greenFeatures": [
+        "solar panels"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 89,
+      "transitScore": 90,
+      "bikeScore": 81
+    },
+    "photos": [
+      {
+        "caption": "Open living area with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Remodeled kitchen with modern features",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "caption": "Spacious backyard with a deck",
+        "roomType": "Yard",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "zpid": "12345678",
+    "address": "5125 Claremont Ave",
+    "zipCode": "94618",
+    "latitude": 37.8515,
+    "longitude": -122.2532,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "sqft": 2400,
+    "lotSizeSqft": 5000,
+    "yearBuilt": 1935,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 3,
+    "price": 2150000,
+    "pricePerSqft": 895,
+    "hoaFee": 0,
+    "propertyTax": 28000,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 5,
+      "description": "Located on the prestigious Claremont Ave in Rockridge, this charming 1935 Craftsman home offers the perfect blend of historical elegance and modern convenience. Featuring 3 spacious bedrooms, 2.5 bathrooms, and a beautifully updated kitchen with top-of-the-line appliances. Enjoy the tranquility of a tree-lined street while being a short walk away from College Avenue's vibrant shops and restaurants.",
+      "keyFeatures": [
+        "Updated kitchen",
+        "Original hardwood floors",
+        "Spacious backyard",
+        "Close to BART"
+      ],
+      "agentName": "Emily Lin",
+      "agentPhone": "510-123-4567",
+      "agentEmail": "emily.lin@compass.com",
+      "brokerage": "Compass",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2150000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Granite countertops",
+        "Stainless steel appliances",
+        "Breakfast bar"
+      ],
+      "bathroomFeatures": [
+        "Double vanity",
+        "Soaking tub"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit",
+      "cooling": "Central A/C",
+      "heating": "Central heating",
+      "yardFeatures": [
+        "Deck",
+        "Garden"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Security system"
+      ],
+      "greenFeatures": [
+        "Solar panels"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 88,
+      "transitScore": 90,
+      "bikeScore": 80
+    },
+    "photos": [
+      {
+        "caption": "Spacious living room with natural light",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with granite countertops",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "23456789",
+    "address": "6400 College Ave Unit 3",
+    "zipCode": "94618",
+    "latitude": 37.8498,
+    "longitude": -122.2521,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1050,
+    "lotSizeSqft": 0,
+    "yearBuilt": 2015,
+    "propertyType": "condo",
+    "stories": 1,
+    "garageSpaces": 1,
+    "parkingSpaces": 1,
+    "price": 995000,
+    "pricePerSqft": 948,
+    "hoaFee": 450,
+    "propertyTax": 12000,
+    "status": "For Sale",
+    "listingType": "MLS",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "Stylish contemporary condo located just steps from College Avenue's bustling shopping district. This 2-bedroom, 2-bathroom unit offers a sleek open-concept design, featuring a gourmet kitchen with quartz countertops. Enjoy the convenience of city living with easy access to BART and UC Berkeley.",
+      "keyFeatures": [
+        "Contemporary design",
+        "Gourmet kitchen",
+        "Close to shops",
+        "Easy BART access"
+      ],
+      "agentName": "James Nguyen",
+      "agentPhone": "510-987-6543",
+      "agentEmail": "james.nguyen@coldwellbanker.com",
+      "brokerage": "Coldwell Banker",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 995000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Carpet"
+      ],
+      "kitchenFeatures": [
+        "Quartz countertops",
+        "Custom cabinetry"
+      ],
+      "bathroomFeatures": [
+        "Walk-in shower",
+        "Modern fixtures"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In-unit",
+      "cooling": "Central A/C",
+      "heating": "Forced air",
+      "yardFeatures": [],
+      "pool": false,
+      "spa": false,
+      "garageType": "Underground",
+      "securityFeatures": [
+        "Gated entry"
+      ],
+      "greenFeatures": [],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 90,
+      "transitScore": 92,
+      "bikeScore": 83
+    },
+    "photos": [
+      {
+        "caption": "Open living area with large windows",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Bright kitchen with stainless steel appliances",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "34567890",
+    "address": "5670 Hillegass Ave Unit 2",
+    "zipCode": "94609",
+    "latitude": 37.851,
+    "longitude": -122.2634,
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "sqft": 1700,
+    "lotSizeSqft": 0,
+    "yearBuilt": 2010,
+    "propertyType": "condo",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 1195000,
+    "pricePerSqft": 703,
+    "hoaFee": 600,
+    "propertyTax": 15000,
+    "status": "For Sale",
+    "listingType": "MLS",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 8,
+      "description": "Rare 4-bedroom, 4.5-bath condo offering spacious living in a prime Rockridge location. This modern unit boasts high-end finishes throughout, an expansive open floor plan, and a private balcony. Perfect for families or those who love to entertain, this property is just minutes from BART and the vibrant College Avenue.",
+      "keyFeatures": [
+        "Private balcony",
+        "High-end finishes",
+        "4 en-suite bathrooms",
+        "Prime location"
+      ],
+      "agentName": "Sarah Chen",
+      "agentPhone": "510-234-5678",
+      "agentEmail": "sarah.chen@redfin.com",
+      "brokerage": "Redfin",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1195000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Engineered hardwood",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Italian marble countertops",
+        "High-end appliances"
+      ],
+      "bathroomFeatures": [
+        "Rain shower",
+        "Tile flooring"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In-unit",
+      "cooling": "Central A/C",
+      "heating": "Forced air",
+      "yardFeatures": [],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "CCTV"
+      ],
+      "greenFeatures": [
+        "Energy-efficient windows"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 87,
+      "transitScore": 89,
+      "bikeScore": 78
+    },
+    "photos": [
+      {
+        "caption": "Spacious open-concept living and dining area",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern, fully-equipped kitchen",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "45678901",
+    "address": "5326 Bryant Ave Unit 1",
+    "zipCode": "94618",
+    "latitude": 37.8492,
+    "longitude": -122.2587,
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "sqft": 1600,
+    "lotSizeSqft": 0,
+    "yearBuilt": 2018,
+    "propertyType": "condo",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 1180000,
+    "pricePerSqft": 737,
+    "hoaFee": 530,
+    "propertyTax": 14800,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 7,
+      "description": "Elegant 4-bedroom, 4.5-bath condo nestled in one of Rockridge's most sought-after areas. This property features a sophisticated design, spacious interiors, and a private patio. Just a short stroll to Market Hall Foods and the Rockridge BART, this is urban living at its finest.",
+      "keyFeatures": [
+        "Private patio",
+        "Sophisticated design",
+        "Close to amenities",
+        "Walkable location"
+      ],
+      "agentName": "Michael Johnson",
+      "agentPhone": "415-345-6789",
+      "agentEmail": "michael.johnson@zephyr.com",
+      "brokerage": "Zephyr Real Estate",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1180000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Carpet"
+      ],
+      "kitchenFeatures": [
+        "Quartz countertops",
+        "High-efficiency appliances"
+      ],
+      "bathroomFeatures": [
+        "Double sinks",
+        "Luxury fixtures"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In-unit",
+      "cooling": "Central A/C",
+      "heating": "Central heating",
+      "yardFeatures": [],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [],
+      "greenFeatures": [
+        "Energy Star appliances"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 91,
+      "transitScore": 93,
+      "bikeScore": 82
+    },
+    "photos": [
+      {
+        "caption": "Chic living room with high ceilings",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with quartz countertops",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "56789012",
+    "address": "6300 Ocean View Dr",
+    "zipCode": "94618",
+    "latitude": 37.8439,
+    "longitude": -122.2463,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "sqft": 2150,
+    "lotSizeSqft": 2500,
+    "yearBuilt": 2005,
+    "propertyType": "townhouse",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 3,
+    "price": 1550000,
+    "pricePerSqft": 721,
+    "hoaFee": 350,
+    "propertyTax": 19000,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 6,
+      "description": "Modern townhouse offering 3 bedrooms and 2.5 bathrooms in a serene Rockridge setting. With stunning bay views and a spacious open floor plan, this home is perfect for families and entertaining. Just minutes from Claremont Avenue and Tilden Regional Park.",
+      "keyFeatures": [
+        "Bay views",
+        "Spacious open floor plan",
+        "Close to Claremont Ave",
+        "Modern design"
+      ],
+      "agentName": "Laura Smith",
+      "agentPhone": "510-567-8901",
+      "agentEmail": "laura.smith@bernstein.com",
+      "brokerage": "Bernstein Realty",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1550000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Chef's kitchen",
+        "Island with seating"
+      ],
+      "bathroomFeatures": [
+        "Custom tile work",
+        "Heated floors"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit",
+      "cooling": "Central A/C",
+      "heating": "Central heating",
+      "yardFeatures": [
+        "Patio",
+        "Landscaped garden"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Alarm system"
+      ],
+      "greenFeatures": [
+        "Low-flow fixtures"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 85,
+      "transitScore": 88,
+      "bikeScore": 76
+    },
+    "photos": [
+      {
+        "caption": "Bright living room with bay views",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Spacious kitchen with chef's appliances",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "67890123",
+    "address": "5648 Lawton Ave",
+    "zipCode": "94618",
+    "latitude": 37.8435,
+    "longitude": -122.2581,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "sqft": 2000,
+    "lotSizeSqft": 3000,
+    "yearBuilt": 2012,
+    "propertyType": "townhouse",
+    "stories": 3,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 1720000,
+    "pricePerSqft": 860,
+    "hoaFee": 400,
+    "propertyTax": 21000,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 4,
+      "description": "This stunning 4-bedroom, 3.5-bathroom townhouse is located in the heart of Rockridge. With a modern design and luxury finishes, this home offers a spacious layout on three levels. Located conveniently close to UC Berkeley and the Rockridge BART station.",
+      "keyFeatures": [
+        "Luxury finishes",
+        "Three-level living",
+        "Proximity to UC Berkeley",
+        "Hardwood floors"
+      ],
+      "agentName": "Alexandra Reyes",
+      "agentPhone": "415-678-9012",
+      "agentEmail": "alexandra.reyes@pacunion.com",
+      "brokerage": "Pacific Union International",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1720000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Carpet"
+      ],
+      "kitchenFeatures": [
+        "Granite countertops",
+        "Wine fridge"
+      ],
+      "bathroomFeatures": [
+        "Jacuzzi tub",
+        "Glass shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 2,
+      "laundryFeatures": "In-unit",
+      "cooling": "Central A/C",
+      "heating": "Forced air",
+      "yardFeatures": [
+        "Rooftop deck"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Video surveillance"
+      ],
+      "greenFeatures": [
+        "LED lighting"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 89,
+      "transitScore": 91,
+      "bikeScore": 79
+    },
+    "photos": [
+      {
+        "caption": "Elegant living room with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with granite countertops",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "78901234",
+    "address": "5923 Chabot Rd",
+    "zipCode": "94618",
+    "latitude": 37.8456,
+    "longitude": -122.253,
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "sqft": 2700,
+    "lotSizeSqft": 6000,
+    "yearBuilt": 1941,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 4,
+    "price": 2350000,
+    "pricePerSqft": 870,
+    "hoaFee": 0,
+    "propertyTax": 32000,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 2,
+      "description": "Nestled on a quiet street in Rockridge, this 1941 Tudor-style home exudes charm with its intricate woodwork and large bay windows. Offering 3 bedrooms and 3.5 baths, a gourmet kitchen, and a large lush backyard, this property is perfect for those who appreciate classic design with modern amenities.",
+      "keyFeatures": [
+        "Gourmet kitchen",
+        "Large backyard",
+        "Tudor style",
+        "Quiet street"
+      ],
+      "agentName": "Jason Kim",
+      "agentPhone": "510-789-0123",
+      "agentEmail": "jason.kim@interorealestate.com",
+      "brokerage": "Intero Real Estate Services",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2350000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Tile",
+        "Carpet"
+      ],
+      "kitchenFeatures": [
+        "Sub-zero refrigerator",
+        "Butler's pantry"
+      ],
+      "bathroomFeatures": [
+        "Clawfoot tub",
+        "Heated floors"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 2,
+      "laundryFeatures": "In-unit",
+      "cooling": "Central A/C",
+      "heating": "Radiant",
+      "yardFeatures": [
+        "Deck",
+        "Mature trees"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Alarm system"
+      ],
+      "greenFeatures": [
+        "Solar panels"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 86,
+      "transitScore": 88,
+      "bikeScore": 81
+    },
+    "photos": [
+      {
+        "caption": "Charming living room with classic woodwork",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Spacious gourmet kitchen",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "89012345",
+    "address": "50 Plaza Dr",
+    "zipCode": "94618",
+    "latitude": 37.8419,
+    "longitude": -122.2469,
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "sqft": 2850,
+    "lotSizeSqft": 5500,
+    "yearBuilt": 1928,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 2480000,
+    "pricePerSqft": 870,
+    "hoaFee": 0,
+    "propertyTax": 33000,
+    "status": "For Sale",
+    "listingType": "Exclusive",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 1,
+      "description": "This beautifully restored 1928 Tudor is located on a picturesque street in the desirable Rockridge neighborhood. The home offers exquisite period details, including vaulted ceilings and hardwood floors, combined with modern conveniences such as a remodeled kitchen and luxurious bathrooms.",
+      "keyFeatures": [
+        "Vaulted ceilings",
+        "Period details",
+        "Remodeled kitchen",
+        "Large lot"
+      ],
+      "agentName": "Olivia Zhang",
+      "agentPhone": "415-890-1234",
+      "agentEmail": "olivia.zhang@sothebysrealty.com",
+      "brokerage": "Sotheby's International Realty",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2480000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Farmhouse sink",
+        "Custom cabinetry"
+      ],
+      "bathroomFeatures": [
+        "Freestanding tub",
+        "Dual vanities"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit",
+      "cooling": "Central A/C",
+      "heating": "Central heating",
+      "yardFeatures": [
+        "Garden",
+        "Patio"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Detached",
+      "securityFeatures": [
+        "Security system"
+      ],
+      "greenFeatures": [
+        "Energy-efficient windows"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 85,
+      "transitScore": 87,
+      "bikeScore": 75
+    },
+    "photos": [
+      {
+        "caption": "Elegant living room with vaulted ceilings",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Remodeled kitchen with farmhouse sink",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "90123456",
+    "address": "4722 Broadway Terrace",
+    "zipCode": "94618",
+    "latitude": 37.8411,
+    "longitude": -122.2512,
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "sqft": 2300,
+    "lotSizeSqft": 4000,
+    "yearBuilt": 2019,
+    "propertyType": "townhouse",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 1780000,
+    "pricePerSqft": 774,
+    "hoaFee": 380,
+    "propertyTax": 22500,
+    "status": "For Sale",
+    "listingType": "MLS",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 9,
+      "description": "Contemporary architecture meets timeless elegance in this luxurious 4-bedroom, 4.5-bath townhouse in Rockridge. Enjoy panoramic views from the multiple balconies, spacious interiors, and state-of-the-art amenities. A short walk to the renowned Dreyer's ice cream factory and local boutiques.",
+      "keyFeatures": [
+        "Panoramic views",
+        "Multiple balconies",
+        "Contemporary design",
+        "State-of-the-art amenities"
+      ],
+      "agentName": "Daniel White",
+      "agentPhone": "510-901-2345",
+      "agentEmail": "daniel.white@kw.com",
+      "brokerage": "Keller Williams Realty",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1780000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Tile"
+      ],
+      "kitchenFeatures": [
+        "Modern appliances",
+        "Stone countertops"
+      ],
+      "bathroomFeatures": [
+        "Full ensuite",
+        "Glass shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit",
+      "cooling": "Central A/C",
+      "heating": "Central heating",
+      "yardFeatures": [
+        "Balconies",
+        "Patio"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Intercom"
+      ],
+      "greenFeatures": [
+        "Smart thermostat"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 84,
+      "transitScore": 90,
+      "bikeScore": 77
+    },
+    "photos": [
+      {
+        "caption": "Spacious living room with panoramic views",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with stainless steel appliances",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "91234567",
+    "address": "300 Caldecott Ln Unit 101",
+    "zipCode": "94618",
+    "latitude": 37.8325,
+    "longitude": -122.2418,
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "sqft": 1500,
+    "lotSizeSqft": 0,
+    "yearBuilt": 2000,
+    "propertyType": "condo",
+    "stories": 1,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 1150000,
+    "pricePerSqft": 767,
+    "hoaFee": 675,
+    "propertyTax": 13500,
+    "status": "For Sale",
+    "listingType": "MLS",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 10,
+      "description": "Sophisticated condo living in Rockridge's desired Parkwoods community. This 3-bedroom, 3.5-bath unit offers upscale finishes, a spacious layout, and access to community amenities such as a pool and fitness center. Perfectly located near Tilden Regional Park and Rockridge BART.",
+      "keyFeatures": [
+        "Community pool",
+        "Fitness center",
+        "Upscale finishes",
+        "Convenient location"
+      ],
+      "agentName": "Emma Brown",
+      "agentPhone": "510-912-3456",
+      "agentEmail": "emma.brown@realtyone.com",
+      "brokerage": "Realty ONE Group",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1150000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "Hardwood",
+        "Carpet"
+      ],
+      "kitchenFeatures": [
+        "Stainless steel appliances",
+        "Granite countertops"
+      ],
+      "bathroomFeatures": [
+        "Tile flooring",
+        "Modern fixtures"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In-unit",
+      "cooling": "Central A/C",
+      "heating": "Central heating",
+      "yardFeatures": [
+        "Community gardens"
+      ],
+      "pool": true,
+      "spa": true,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Gated community"
+      ],
+      "greenFeatures": [
+        "Energy-efficient appliances"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 83,
+      "transitScore": 85,
+      "bikeScore": 74
+    },
+    "photos": [
+      {
+        "caption": "Spacious common area with modern design",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Open kitchen with stainless steel appliances",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "12345678",
+    "address": "5410 College Ave",
+    "zipCode": "94618",
+    "latitude": 37.8466,
+    "longitude": -122.2527,
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "sqft": 3100,
+    "lotSizeSqft": 5000,
+    "yearBuilt": 1935,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 2350000,
+    "pricePerSqft": 758,
+    "hoaFee": 0,
+    "propertyTax": 29500,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "Nestled on a charming tree-lined street, this exquisite 4-bedroom Craftsman home boasts an impressive 3100 sqft of living space. Featuring a modern kitchen with state-of-the-art appliances, a spacious living room with a cozy fireplace, and a master suite with a luxurious bath. Enjoy an outdoor paradise with a landscaped garden and patio, perfect for entertaining. Located just steps from College Avenue's vibrant shops and restaurants, and a short walk to the Rockridge BART station.",
+      "keyFeatures": [
+        "Craftsman architecture",
+        "Spacious master suite",
+        "Modern kitchen",
+        "Proximity to BART",
+        "Landscaped garden"
+      ],
+      "agentName": "Emma Thompson",
+      "agentPhone": "510-555-0123",
+      "agentEmail": "emma.thompson@compass.com",
+      "brokerage": "Compass",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2350000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "granite countertops",
+        "stainless steel appliances",
+        "island"
+      ],
+      "bathroomFeatures": [
+        "spa tub",
+        "dual sinks",
+        "heated floors"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit laundry room",
+      "cooling": "Central air",
+      "heating": "Central heating",
+      "yardFeatures": [
+        "patio",
+        "landscaped garden"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Alarm system"
+      ],
+      "greenFeatures": [
+        "Solar panels"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 92,
+      "transitScore": 90,
+      "bikeScore": 78
+    },
+    "photos": [
+      {
+        "caption": "Elegant living room with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with island",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "87654321",
+    "address": "5212 Claremont Ave",
+    "zipCode": "94609",
+    "latitude": 37.8439,
+    "longitude": -122.2568,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "sqft": 1600,
+    "lotSizeSqft": 2000,
+    "yearBuilt": 2005,
+    "propertyType": "condo",
+    "stories": 1,
+    "garageSpaces": 1,
+    "parkingSpaces": 1,
+    "price": 1150000,
+    "pricePerSqft": 719,
+    "hoaFee": 450,
+    "propertyTax": 13750,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "This contemporary 4-bedroom condo offers 1600 sqft of beautifully designed space in the heart of Rockridge. Enjoy an open-concept layout, a sleek chef's kitchen with quartz countertops, and a private balcony with stunning views. The building includes amenities such as a fitness center and a community room. Conveniently located near Claremont Avenue's cafes and boutiques, and just minutes from the Rockridge BART station.",
+      "keyFeatures": [
+        "Contemporary design",
+        "Chef's kitchen",
+        "Private balcony",
+        "Fitness center",
+        "Near BART"
+      ],
+      "agentName": "Jack Peterson",
+      "agentPhone": "510-555-0345",
+      "agentEmail": "jack.peterson@coldwellbanker.com",
+      "brokerage": "Coldwell Banker",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1150000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "laminate",
+        "carpet"
+      ],
+      "kitchenFeatures": [
+        "quartz countertops",
+        "gas range",
+        "modern cabinetry"
+      ],
+      "bathroomFeatures": [
+        "frameless glass shower",
+        "floating vanity"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "In-unit stackable",
+      "cooling": "Central air",
+      "heating": "Forced air",
+      "yardFeatures": [],
+      "pool": false,
+      "spa": false,
+      "garageType": "Underground",
+      "securityFeatures": [
+        "Intercom"
+      ],
+      "greenFeatures": [
+        "Energy-efficient appliances"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 90,
+      "transitScore": 88,
+      "bikeScore": 75
+    },
+    "photos": [
+      {
+        "caption": "Spacious living area with natural light",
+        "roomType": "Living Area",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Sleek kitchen with modern finishes",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "23456789",
+    "address": "6018 Keith Ave",
+    "zipCode": "94618",
+    "latitude": 37.8474,
+    "longitude": -122.2457,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "sqft": 2900,
+    "lotSizeSqft": 4500,
+    "yearBuilt": 1940,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 1,
+    "parkingSpaces": 1,
+    "price": 2100000,
+    "pricePerSqft": 724,
+    "hoaFee": 0,
+    "propertyTax": 26300,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "This stunning Tudor-style home features 4 bedrooms and 3.5 bathrooms across 2900 sqft of living space. The property exudes charm with its classic architecture, complemented by modern updates throughout. Enjoy a gourmet kitchen, a spacious family room with a fireplace, and a serene backyard perfect for relaxation. Located in a sought-after Rockridge locale, with easy access to Tilden Regional Park and local amenities.",
+      "keyFeatures": [
+        "Tudor architecture",
+        "Gourmet kitchen",
+        "Spacious backyard",
+        "Near parks",
+        "Fireplace"
+      ],
+      "agentName": "Sophia Martinez",
+      "agentPhone": "510-555-0678",
+      "agentEmail": "sophia.martinez@compass.com",
+      "brokerage": "Compass",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2100000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "carpet"
+      ],
+      "kitchenFeatures": [
+        "custom cabinetry",
+        "sub-zero refrigerator",
+        "double oven"
+      ],
+      "bathroomFeatures": [
+        "clawfoot tub",
+        "marble countertops"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "Dedicated laundry room",
+      "cooling": "Central air",
+      "heating": "Radiant heating",
+      "yardFeatures": [
+        "deck",
+        "mature trees"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Detached",
+      "securityFeatures": [
+        "Burglar alarm"
+      ],
+      "greenFeatures": [],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 85,
+      "transitScore": 86,
+      "bikeScore": 72
+    },
+    "photos": [
+      {
+        "caption": "Charming Tudor-style exterior",
+        "roomType": "Exterior",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Warm and inviting family room",
+        "roomType": "Family Room",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "34567890",
+    "address": "5824 Broadway",
+    "zipCode": "94618",
+    "latitude": 37.847,
+    "longitude": -122.2555,
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "sqft": 2700,
+    "lotSizeSqft": 3800,
+    "yearBuilt": 1928,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 1,
+    "parkingSpaces": 1,
+    "price": 1995000,
+    "pricePerSqft": 739,
+    "hoaFee": 0,
+    "propertyTax": 24900,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "A beautiful 3-bedroom home on Broadway offering 2700 sqft of elegance and comfort. Featuring a formal dining room, a chef's kitchen with top-of-the-line appliances, and an inviting living room with large windows and a fireplace. The private backyard is perfect for gatherings with friends and family. Ideally situated within walking distance of Market Hall Foods and the Rockridge BART station.",
+      "keyFeatures": [
+        "Chef's kitchen",
+        "Formal dining room",
+        "Private backyard",
+        "Fireplace",
+        "Close to amenities"
+      ],
+      "agentName": "David Lin",
+      "agentPhone": "510-555-0912",
+      "agentEmail": "david.lin@realtyonegroup.com",
+      "brokerage": "Realty One Group",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1995000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "ceramic tile"
+      ],
+      "kitchenFeatures": [
+        "top-of-the-line appliances",
+        "breakfast nook"
+      ],
+      "bathroomFeatures": [
+        "walk-in shower",
+        "stone tile"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "Washer/dryer included",
+      "cooling": "None",
+      "heating": "Central heating",
+      "yardFeatures": [
+        "fenced yard",
+        "patio"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Detached",
+      "securityFeatures": [],
+      "greenFeatures": [
+        "Energy-efficient windows"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 88,
+      "transitScore": 91,
+      "bikeScore": 80
+    },
+    "photos": [
+      {
+        "caption": "Stylish and modern kitchen",
+        "roomType": "Kitchen",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Spacious living room with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "45678901",
+    "address": "5938 Lowell Ave",
+    "zipCode": "94618",
+    "latitude": 37.8456,
+    "longitude": -122.2473,
+    "bedrooms": 2,
+    "bathrooms": 2.5,
+    "sqft": 1800,
+    "lotSizeSqft": 3200,
+    "yearBuilt": 1950,
+    "propertyType": "single_family",
+    "stories": 1,
+    "garageSpaces": 1,
+    "parkingSpaces": 2,
+    "price": 1590000,
+    "pricePerSqft": 883,
+    "hoaFee": 0,
+    "propertyTax": 19875,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "This delightful 2-bedroom bungalow offers 1800 sqft of cozy yet sophisticated living space in Rockridge. Featuring engineered hardwood floors, an updated kitchen with quartz counters, and a charming sunroom. The backyard is an urban oasis with manicured landscaping and a pergola. Conveniently placed near UC Berkeley and the vibrant College Avenue.",
+      "keyFeatures": [
+        "Bungalow charm",
+        "Updated kitchen",
+        "Sunroom",
+        "Lovely backyard",
+        "Near College Avenue"
+      ],
+      "agentName": "Linda Chen",
+      "agentPhone": "510-555-0246",
+      "agentEmail": "linda.chen@redfin.com",
+      "brokerage": "Redfin",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1590000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "engineered hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "quartz countertops",
+        "custom cabinets"
+      ],
+      "bathroomFeatures": [
+        "en suite bath",
+        "tile shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit washer/dryer",
+      "cooling": "Window units",
+      "heating": "Radiant heating",
+      "yardFeatures": [
+        "pergola",
+        "manicured landscaping"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [],
+      "greenFeatures": [],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 86,
+      "transitScore": 84,
+      "bikeScore": 71
+    },
+    "photos": [
+      {
+        "caption": "Cozy living room with fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Charming sunroom with garden views",
+        "roomType": "Sunroom",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "56789012",
+    "address": "5709 Shafter Ave",
+    "zipCode": "94618",
+    "latitude": 37.8488,
+    "longitude": -122.2502,
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "sqft": 3300,
+    "lotSizeSqft": 5500,
+    "yearBuilt": 1965,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 2450000,
+    "pricePerSqft": 742,
+    "hoaFee": 0,
+    "propertyTax": 30750,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "Expansive and elegant, this 4-bedroom mid-century home offers 3300 sqft of bright, open spaces. Enjoy a stunning bay view from the living room, a newly renovated kitchen, and a master suite with a private balcony. The garden is a lush retreat with space for entertaining. Centrally located in Rockridge, providing easy access to local schools, shopping, and dining.",
+      "keyFeatures": [
+        "Bay view",
+        "Mid-century design",
+        "Renovated kitchen",
+        "Spacious garden",
+        "Central location"
+      ],
+      "agentName": "Michael Adams",
+      "agentPhone": "510-555-0893",
+      "agentEmail": "michael.adams@berkeleyhillsrealty.com",
+      "brokerage": "Berkeley Hills Realty",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2450000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "bamboo",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "high-end appliances",
+        "island bar"
+      ],
+      "bathroomFeatures": [
+        "luxury fixtures",
+        "skylight"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 2,
+      "laundryFeatures": "Laundry room",
+      "cooling": "Central air",
+      "heating": "Central heating",
+      "yardFeatures": [
+        "deck",
+        "landscaped garden"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Surveillance system"
+      ],
+      "greenFeatures": [
+        "Solar water heating"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 87,
+      "transitScore": 89,
+      "bikeScore": 76
+    },
+    "photos": [
+      {
+        "caption": "Living room with panoramic bay view",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Renovated kitchen with island",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "67890123",
+    "address": "5349 Lawton Ave",
+    "zipCode": "94618",
+    "latitude": 37.8481,
+    "longitude": -122.2509,
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "sqft": 2000,
+    "lotSizeSqft": 1800,
+    "yearBuilt": 1985,
+    "propertyType": "townhouse",
+    "stories": 2,
+    "garageSpaces": 1,
+    "parkingSpaces": 1,
+    "price": 1450000,
+    "pricePerSqft": 725,
+    "hoaFee": 400,
+    "propertyTax": 18125,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "This charming 3-bedroom townhouse is located in a serene Rockridge setting, offering 2000 sqft of modern living. Features include a bright open-plan living area, a gourmet kitchen, and a master suite with vaulted ceilings. Enjoy easy access to the vibrant College Avenue and Rockridge BART for a quick commute.",
+      "keyFeatures": [
+        "Open-plan layout",
+        "Gourmet kitchen",
+        "Vaulted ceilings",
+        "Prime location",
+        "Proximity to BART"
+      ],
+      "agentName": "Julia Bennett",
+      "agentPhone": "510-555-0487",
+      "agentEmail": "julia.bennett@kw.com",
+      "brokerage": "Keller Williams",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1450000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "carpet",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "granite countertops",
+        "breakfast bar"
+      ],
+      "bathroomFeatures": [
+        "soaking tub",
+        "updated fixtures"
+      ],
+      "fireplace": false,
+      "fireplaceCount": 0,
+      "laundryFeatures": "Stacked washer/dryer",
+      "cooling": "Central air",
+      "heating": "Forced air",
+      "yardFeatures": [],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Gated community"
+      ],
+      "greenFeatures": [
+        "Low-flow fixtures"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 89,
+      "transitScore": 85,
+      "bikeScore": 74
+    },
+    "photos": [
+      {
+        "caption": "Bright and airy living area",
+        "roomType": "Living Area",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Modern kitchen with breakfast bar",
+        "roomType": "Kitchen",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "78901234",
+    "address": "5972 Ross St",
+    "zipCode": "94618",
+    "latitude": 37.8452,
+    "longitude": -122.255,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "sqft": 2400,
+    "lotSizeSqft": 4000,
+    "yearBuilt": 2000,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 1750000,
+    "pricePerSqft": 729,
+    "hoaFee": 0,
+    "propertyTax": 21875,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "This delightful 3-bedroom home features an open-concept living space, a gourmet kitchen with stainless steel appliances, and a cozy family room. The backyard is beautifully landscaped with a stone patio and seating area. Situated in a prime Rockridge location with easy access to local amenities and parks.",
+      "keyFeatures": [
+        "Open-concept layout",
+        "Gourmet kitchen",
+        "Landscaped backyard",
+        "Prime location",
+        "Close to parks"
+      ],
+      "agentName": "Ethan Clark",
+      "agentPhone": "510-555-0726",
+      "agentEmail": "ethan.clark@remax.com",
+      "brokerage": "RE/MAX Accord",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1750000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "tile"
+      ],
+      "kitchenFeatures": [
+        "stainless steel appliances",
+        "center island"
+      ],
+      "bathroomFeatures": [
+        "marble countertops",
+        "walk-in shower"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit laundry",
+      "cooling": "Central air",
+      "heating": "Central heating",
+      "yardFeatures": [
+        "stone patio",
+        "seating area"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Video doorbell"
+      ],
+      "greenFeatures": [
+        "High-efficiency HVAC"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 84,
+      "transitScore": 83,
+      "bikeScore": 70
+    },
+    "photos": [
+      {
+        "caption": "Spacious open-concept living room",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Beautifully landscaped backyard patio",
+        "roomType": "Backyard",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "89012345",
+    "address": "6115 Ocean View Dr",
+    "zipCode": "94618",
+    "latitude": 37.8493,
+    "longitude": -122.2471,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "sqft": 3100,
+    "lotSizeSqft": 4800,
+    "yearBuilt": 1975,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 2280000,
+    "pricePerSqft": 735,
+    "hoaFee": 0,
+    "propertyTax": 28500,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "Discover luxurious living in this elegant 4-bedroom home on Ocean View Drive, offering 3100 sqft of sophisticated space. The home features a formal living room with a fireplace, a modern kitchen, and a charming dining room. The backyard is an entertainer's dream with a deck and sweeping views. Situated in a sought-after neighborhood, steps away from Claremont Avenue.",
+      "keyFeatures": [
+        "Formal living room",
+        "Modern kitchen",
+        "Entertainer's backyard",
+        "Sweeping views",
+        "Desirable location"
+      ],
+      "agentName": "Gabriel Lee",
+      "agentPhone": "510-555-0987",
+      "agentEmail": "gabriel.lee@betterhomes.com",
+      "brokerage": "Better Homes & Gardens",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 2280000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "marble"
+      ],
+      "kitchenFeatures": [
+        "modern appliances",
+        "granite countertops"
+      ],
+      "bathroomFeatures": [
+        "luxury shower",
+        "double vanity"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "Dedicated laundry room",
+      "cooling": "Central air",
+      "heating": "Central heating",
+      "yardFeatures": [
+        "deck",
+        "view"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Security cameras"
+      ],
+      "greenFeatures": [
+        "Smart thermostat"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 83,
+      "transitScore": 82,
+      "bikeScore": 69
+    },
+    "photos": [
+      {
+        "caption": "Formal living room with cozy fireplace",
+        "roomType": "Living Room",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Entertainer's deck with views",
+        "roomType": "Deck",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "zpid": "90123456",
+    "address": "5023 Dana St",
+    "zipCode": "94609",
+    "latitude": 37.8445,
+    "longitude": -122.2609,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "sqft": 2200,
+    "lotSizeSqft": 3600,
+    "yearBuilt": 1988,
+    "propertyType": "single_family",
+    "stories": 2,
+    "garageSpaces": 2,
+    "parkingSpaces": 2,
+    "price": 1825000,
+    "pricePerSqft": 830,
+    "hoaFee": 0,
+    "propertyTax": 22813,
+    "status": "For Sale",
+    "listingType": "Standard",
+    "listing": {
+      "listDate": "2024-05-22T10:00:00Z",
+      "daysOnMarket": 3,
+      "description": "This elegant 3-bedroom residence offers 2200 sqft of thoughtfully designed living space, featuring an open floor plan, a chef's kitchen, and a master suite with a private balcony. The property is perfect for entertaining with a landscaped backyard that includes a BBQ area. Ideally located near the Rockridge BART and College Avenue shopping district.",
+      "keyFeatures": [
+        "Open floor plan",
+        "Chef's kitchen",
+        "Master suite with balcony",
+        "Landscaped backyard",
+        "Near shopping"
+      ],
+      "agentName": "Natalie Kim",
+      "agentPhone": "510-555-0148",
+      "agentEmail": "natalie.kim@allisonjamesestates.com",
+      "brokerage": "Allison James Estates & Homes",
+      "openHouseDates": [
+        "2024-05-25T14:00:00Z",
+        "2024-05-26T14:00:00Z"
+      ],
+      "tourAvailable": true,
+      "originalPrice": 1825000,
+      "priceChanges": []
+    },
+    "features": {
+      "flooringTypes": [
+        "hardwood",
+        "carpet"
+      ],
+      "kitchenFeatures": [
+        "center island",
+        "custom cabinets"
+      ],
+      "bathroomFeatures": [
+        "soaking tub",
+        "heated floors"
+      ],
+      "fireplace": true,
+      "fireplaceCount": 1,
+      "laundryFeatures": "In-unit laundry",
+      "cooling": "Central air",
+      "heating": "Central heating",
+      "yardFeatures": [
+        "BBQ area",
+        "landscaped"
+      ],
+      "pool": false,
+      "spa": false,
+      "garageType": "Attached",
+      "securityFeatures": [
+        "Alarm system"
+      ],
+      "greenFeatures": [
+        "Solar panels"
+      ],
+      "schoolDistrict": "Oakland Unified School District",
+      "walkabilityScore": 85,
+      "transitScore": 87,
+      "bikeScore": 77
+    },
+    "photos": [
+      {
+        "caption": "Spacious open floor plan living area",
+        "roomType": "Living Area",
+        "isPrimary": true,
+        "sortOrder": 1
+      },
+      {
+        "caption": "Landscaped backyard with BBQ area",
+        "roomType": "Backyard",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  }
+]

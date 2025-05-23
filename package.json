@@ -1,0 +1,43 @@
+{
+  "name": "zillow-rockridge-generator",
+  "version": "1.0.0",
+  "description": "Generate realistic Zillow property listings for Rockridge, CA using OpenAI 4o",
+  "type": "module",
+  "scripts": {
+    "setup": "bun run scripts/setup.ts",
+    "init-db": "bunx prisma generate && bunx prisma db push",
+    "generate": "bun run scripts/generate-listings.ts",
+    "test": "bun run scripts/test-small-batch.ts",
+    "analyze": "bun run scripts/analyze-data.ts",
+    "studio": "bunx prisma studio",
+    "reset-db": "bunx prisma db push --force-reset"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.13.0",
+    "openai": "^4.47.1",
+    "csv-writer": "^1.6.0",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "prisma": "^5.13.0",
+    "tsx": "^4.11.0",
+    "typescript": "^5.4.5"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  },
+  "keywords": [
+    "zillow",
+    "real-estate",
+    "openai",
+    "typescript",
+    "data-generation",
+    "rockridge",
+    "property-listings"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+} 

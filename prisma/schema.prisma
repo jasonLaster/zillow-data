@@ -1,0 +1,185 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "sqlite"
+    url      = "file:../data/zillow_rockridge.db"
+}
+
+model Property {
+    id        Int    @id @default(autoincrement())
+    zpid      String @unique
+    address   String
+    city      String @default("Oakland")
+    state     String @default("CA")
+    zipCode   String @map("zip_code")
+    latitude  Float
+    longitude Float
+
+    // Property basics
+    bedrooms     Int
+    bathrooms    Float
+    sqft         Int
+    lotSizeSqft  Int?   @map("lot_size_sqft")
+    yearBuilt    Int    @map("year_built")
+    propertyType String @map("property_type")
+
+    // Structure details
+    stories       Int? @default(1)
+    garageSpaces  Int? @default(0) @map("garage_spaces")
+    parkingSpaces Int? @default(0) @map("parking_spaces")
+
+    // Financial
+    price        Int
+    pricePerSqft Float? @map("price_per_sqft")
+    hoaFee       Int?   @default(0) @map("hoa_fee")
+    propertyTax  Int?   @default(0) @map("property_tax")
+
+    // Status
+    status      String @default("For Sale")
+    listingType String @default("Resale") @map("listing_type")
+
+    // Timestamps
+    createdAt DateTime @default(now()) @map("created_at")
+    updatedAt DateTime @updatedAt @map("updated_at")
+
+    // Relationships
+    listing  Listing?
+    features PropertyFeatures?
+    photos   PropertyPhoto[]
+
+    @@map("properties")
+}
+
+model Listing {
+    id         Int @id @default(autoincrement())
+    propertyId Int @unique @map("property_id")
+
+    // Listing details
+    listDate     DateTime @map("list_date")
+    daysOnMarket Int?     @default(0) @map("days_on_market")
+    description  String?
+    keyFeatures  String?  @map("key_features") // JSON string
+
+    // Agent information
+    agentName  String? @map("agent_name")
+    agentPhone String? @map("agent_phone")
+    agentEmail String? @map("agent_email")
+    brokerage  String?
+
+    // Showing information
+    openHouseDates String? @map("open_house_dates") // JSON string
+    tourAvailable  Boolean @default(true) @map("tour_available")
+    virtualTourUrl String? @map("virtual_tour_url")
+
+    // Price history
+    originalPrice Int?    @map("original_price")
+    priceChanges  String? @map("price_changes") // JSON string
+
+    // Timestamps
+    createdAt DateTime @default(now()) @map("created_at")
+    updatedAt DateTime @updatedAt @map("updated_at")
+
+    // Relationships
+    property Property @relation(fields: [propertyId], references: [id], onDelete: Cascade)
+
+    @@map("listings")
+}
+
+model PropertyFeatures {
+    id         Int @id @default(autoincrement())
+    propertyId Int @unique @map("property_id")
+
+    // Interior features
+    flooringTypes    String? @map("flooring_types") // JSON string
+    kitchenFeatures  String? @map("kitchen_features") // JSON string
+    bathroomFeatures String? @map("bathroom_features") // JSON string
+    fireplace        Boolean @default(false)
+    fireplaceCount   Int?    @default(0) @map("fireplace_count")
+    laundryFeatures  String? @map("laundry_features")
+    cooling          String?
+    heating          String?
+
+    // Exterior features
+    yardFeatures String?  @map("yard_features") // JSON string
+    pool         Boolean? @default(false)
+    spa          Boolean? @default(false)
+    garageType   String?  @map("garage_type")
+
+    // Building features
+    securityFeatures      String? @map("security_features") // JSON string
+    accessibilityFeatures String? @map("accessibility_features") // JSON string
+    greenFeatures         String? @map("green_features") // JSON string
+
+    // Neighborhood features
+    schoolDistrict   String? @default("Oakland Unified School District") @map("school_district")
+    walkabilityScore Int?    @default(80) @map("walkability_score")
+    transitScore     Int?    @default(85) @map("transit_score")
+    bikeScore        Int?    @default(70) @map("bike_score")
+
+    // Timestamps
+    createdAt DateTime @default(now()) @map("created_at")
+    updatedAt DateTime @updatedAt @map("updated_at")
+
+    // Relationships
+    property Property @relation(fields: [propertyId], references: [id], onDelete: Cascade)
+
+    @@map("property_features")
+}
+
+model PropertyPhoto {
+    id         Int @id @default(autoincrement())
+    propertyId Int @map("property_id")
+
+    // Photo details
+    photoUrl  String? @map("photo_url")
+    caption   String?
+    roomType  String? @map("room_type")
+    isPrimary Boolean @default(false) @map("is_primary")
+    sortOrder Int?    @default(0) @map("sort_order")
+
+    // Timestamps
+    createdAt DateTime @default(now()) @map("created_at")
+
+    // Relationships
+    property Property @relation(fields: [propertyId], references: [id], onDelete: Cascade)
+
+    @@map("property_photos")
+}
+
+model Neighborhood {
+    id    Int    @id @default(autoincrement())
+    name  String
+    city  String
+    state String
+
+    // Geographic boundaries (simplified)
+    boundaryCoordinates String? @map("boundary_coordinates") // JSON string
+    centerLatitude      Float?  @map("center_latitude")
+    centerLongitude     Float?  @map("center_longitude")
+
+    // Neighborhood characteristics
+    description     String?
+    medianHomePrice Int?    @map("median_home_price")
+    medianRentPrice Int?    @map("median_rent_price")
+    population      Int?
+    medianAge       Float?  @map("median_age")
+    medianIncome    Int?    @map("median_income")
+
+    // Amenities and features
+    nearbySchools         String? @map("nearby_schools") // JSON string
+    nearbyRestaurants     String? @map("nearby_restaurants") // JSON string
+    nearbyShopping        String? @map("nearby_shopping") // JSON string
+    nearbyParks           String? @map("nearby_parks") // JSON string
+    transportationOptions String? @map("transportation_options") // JSON string
+
+    // Timestamps
+    createdAt DateTime @default(now()) @map("created_at")
+    updatedAt DateTime @updatedAt @map("updated_at")
+
+    @@map("neighborhoods")
+}
